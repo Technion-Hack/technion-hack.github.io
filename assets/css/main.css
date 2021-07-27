@@ -70,7 +70,7 @@ np {
     font-weight: 400;
     font-family: 'Lato', sans-serif;
     margin: 0px;
-    font-size: 20px;
+    font-size: 25px;
     text-align: right;
     color: rgba(131, 26, 82, 255)
 }
@@ -1135,7 +1135,7 @@ a.back-to-top:focus {
 
 .schedule .card-header .time {
     color: #777777;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 5px;
 }
 
@@ -1148,7 +1148,7 @@ a.back-to-top:focus {
 
 .schedule .card-header .name {
     position: relative;
-    font-size: 14px;
+    font-size: 15px;
     color: #777777;
     font-weight: 500;
     display: inline-block;
@@ -1162,7 +1162,7 @@ a.back-to-top:focus {
 }
 
 .schedule .card-body .location {
-    font-size: 13px;
+    font-size: 15px;
     color: #777777;
 }
 
