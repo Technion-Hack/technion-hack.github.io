@@ -305,7 +305,6 @@ ol li {
     font-weight: 700;
     text-align: center;
     text-transform: uppercase;
-    position: relative;
 }
 
 .my-section-title h3 {
@@ -314,7 +313,6 @@ ol li {
     padding-bottom: 10px;
     font-weight: bold;
     text-align: center;
-    position: relative;
 }
 
 .my-section-title p {
@@ -324,7 +322,6 @@ ol li {
     font-weight: bold;
     text-align: center;
     text-transform: capitalize;
-    position: relative;
 }
 
 .section-title:before {
@@ -1167,12 +1164,12 @@ a.back-to-top:focus {
 }
 
 .counter-section .counter .icon i {
-    font-size: 60px;
+    font-size: 50px;
     color: #fff;
 }
 
 .counter-section .counter p {
-    font-size: 20px;
+    font-size: 16px;
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
@@ -1195,10 +1192,10 @@ a.back-to-top:focus {
 #sponsors .spnsors-logo {
     text-align: center;
     border-radius: 4px;
-    padding: 50px;
+    padding: 30px;
     margin-bottom: 30px;
     display: inline-block;
-    border: 1px solid #ddd;
+    border: 3px solid #ddd;
     background: #fff;
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
@@ -1303,6 +1300,7 @@ a.back-to-top:focus {
     float: left;
     margin-right: 20px;
     font-size: 30px;
+    padding-top: 2px;
 }
 
 .schedule .card-header .images-box img {
@@ -1319,17 +1317,20 @@ a.back-to-top:focus {
     font-weight: 700;
     font-size: 18px;
     color: #212121;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 }
 
 .schedule .card-header .name {
     position: relative;
     font-size: 15px;
-    color: #777777;
+    color: #831a52;
     font-weight: 500;
     display: inline-block;
     margin-bottom: 5px;
 }
+
+
+/*color: #777777;*/
 
 .schedule .card-body {
     padding: 15px 70px 15px 110px;
@@ -1631,7 +1632,7 @@ a.back-to-top:focus {
     position: absolute;
     bottom: 10px;
     left: 10px;
-    padding: 15px 20px;
+    padding: 20px 20px;
     background: #f3f4f3;
     text-align: left;
 }
