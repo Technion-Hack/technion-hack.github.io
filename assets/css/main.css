@@ -399,7 +399,7 @@ ol li {
 }
 
 .btn {
-    font-size: 14px;
+    font-size: 18px;
     padding: 12px 20px;
     border-radius: 4px;
     cursor: pointer;
@@ -2404,8 +2404,8 @@ a.back-to-top:focus {
 }
 
 #pricing .my-price p {
-    font-size: 20px;
-    color: #ffffff;
+    font-size: 25px;
+    color: #f77904;
 }
 
 #main-slide .carousel-control {
