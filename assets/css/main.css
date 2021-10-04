@@ -2408,6 +2408,11 @@ a.back-to-top:focus {
     color: #f77904;
 }
 
+#pricing .my-price p1 {
+    font-size: 30px;
+    color: #ffd900;
+}
+
 #main-slide .carousel-control {
     display: none;
     transition: all 0.3s ease-in-out;
