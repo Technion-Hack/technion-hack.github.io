@@ -151,6 +151,13 @@ ol li {
     background: linear-gradient(to right, rgba(111, 88, 232, 0.6) 0%, #3763eb 100%);
 }
 
+.carousel-section-wrapper .section-title h4 {
+    margin-bottom: 0px;
+    color: #831a52;
+    font-size: 40px;
+    text-transform: none;
+}
+
 .carousel-section-wrapper .section-title h2 {
     margin-bottom: 25px;
     color: #831a52;
@@ -318,7 +325,7 @@ ol li {
 }
 
 .my-section-title p {
-    font-size: 30px;
+    font-size: 40px;
     color: #000000;
     padding-bottom: 10px;
     font-weight: bold;
@@ -1256,6 +1263,31 @@ a.back-to-top:focus {
 #sponsors .spnsors-logo:hover {
     border-color: transparent;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+
+/* introduction Area */
+
+.introduction {
+    background-color: #831a52;
+    /*background-color: #6d6c70;*/
+    /*background-color: #002147*/
+    /*background-color: rgba(214, 215, 220, 255);*/
+    margin-top: 60px;
+}
+
+.introduction .section-title-header h1 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: none;
+}
+
+.introduction .section-title-header h4 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: uppercase;
 }
 
 
