@@ -2445,6 +2445,11 @@ a.back-to-top:focus {
     color: #ffd900;
 }
 
+#pricing .my-price p2 {
+    font-size: 25px;
+    color: #ffd900;
+}
+
 #main-slide .carousel-control {
     display: none;
     transition: all 0.3s ease-in-out;
