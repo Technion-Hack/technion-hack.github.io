@@ -438,6 +438,13 @@ ol li {
     border-radius: 25px;
 }
 
+.btn-common_blue {
+    background-color: #002147;
+    position: relative;
+    z-index: 1;
+    border-radius: 25px;
+}
+
 .btn-common:hover {
     color: #fff;
     background: #831a52;
